@@ -5,37 +5,50 @@
 - 👯 I’m looking to collaborate on various development projects and learn everyday
 - ⚡ Fun fact: How center a div ?
 
+<br/>  
+
 ## My Skill Set  
 
-<table><tr><td valign="top" width="33%">
+<p align="center">
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://about.gitlab.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.elastic.co/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" style="margin: 10px;"/>
+  </a>
+</p>
 
-<div align="center">  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
+ 
 <br/>  
 
 ## Connect with me  
